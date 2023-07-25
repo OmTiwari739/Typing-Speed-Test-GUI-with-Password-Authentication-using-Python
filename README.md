@@ -9,7 +9,7 @@ Features:
 	1.2. Users are required to type the displayed sentence in the input box provided on the screen.
 	1.3. The application tracks the time taken to complete the sentence, calculates the accuracy of the user's typing, and displays the words per minute (WPM) achieved by the user.
 
-2.Password Authentication:
+2. Password Authentication:
 	2.1. Before accessing the typing speed test, users are prompted to enter a username and password for authentication.
 	2.2. The username is not case-sensitive, but the password is case-sensitive.
 	2.3. In the provided code, the username "om" and password "om" are hardcoded for demonstration purposes. You can modify these credentials to suit your needs or implement a more secure authentication system.
