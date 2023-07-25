@@ -2,7 +2,7 @@ Typing Speed Test GUI with Password Authentication Using Python
 
 This Python code is a Graphical User Interface (GUI) for a typing speed test with password authentication. It presents users with a simple yet interactive interface to test their typing speed and accuracy while requiring them to enter a username and password for authentication.
 
-Features
+Features:
 
 1. Typing Speed Test
 	1.1. The GUI displays a random sentence from a collection of sentences stored in the "sentences.txt" file.
